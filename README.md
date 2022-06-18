@@ -1,16 +1,58 @@
-### Hi there 👋
+# <h1 align="center"> ABOUT ME </h1>
 
-<!--
-**antinuke0day/antinuke0day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a><img src="https://readme-typing-svg.herokuapp.com?color=3DF7E2&size=30&center=true&lines=Self+taught+developer;Experienced+in+python;Keen+to+learn+new+things"></a>
+</p>
 
-Here are some ideas to get you started:
+## Hello
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a 18 y/o developer, </br>
+`Creator` of Rival AntiNuke
+
+### I mainly code in
+- Python  
+- Java
+- NODEJS
+
+### Mostly worked on modules
+- Discord.py
+- Discord.js
+
+
+
+
+## 📊Profile Stats
+
+
+<table width="100%" align="center">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=antinuke0day&show_icons=true&theme=radical" /> </td>
+<td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antinuke0day&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>  
+  
+  </tr>
+ <table>
+
+
+
+<img width = "1080em" src = "./github-metrics.svg">
+<p align="left">
+  <a href="https://github.com/antinuke0day/rival"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antinuke0day&repo=rival&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/antinuke0day/button_paginator"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antinuke0day&repo=button_paginator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+
+
+
+</p>
+
+
+## Socials
+   
+
+<p align="center">
+  
+  [<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg' alt='github' height='40'>](https://github.com/antinuke0day)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdx.solo.to/images/logo/solo-text-logo-color.svg' alt='instagram' height='40'>](https://solo.to/fry)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg' alt='Rival' height='40'>](https://discord.com/oauth2/authorize?client_id=986564927827378246&permissions=8&scope=applications.commands%20bot)
+   
+</p>
+
