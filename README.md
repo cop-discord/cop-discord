@@ -19,10 +19,11 @@ I am a 18 y/o developer, </br>
 - NODEJS
 </img>
 ### Mostly worked on modules
+
+
+
 <!-- py -->
-        <a href="https://github.com/antinuke0day?tab=repositories" target="_blank"><img alt="Python"
-                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-        </a>
+<a align="left" href="https://github.com/antinuke0day?tab=repositories" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 
 
 
