@@ -17,7 +17,7 @@ I am a 18 y/o developer, </br>
 - Python  
 - Java
 - NODEJS
-
+</img>
 ### Mostly worked on modules
 <!-- py -->
         <a href="https://github.com/antinuke0day?tab=repositories" target="_blank"><img alt="Python"
