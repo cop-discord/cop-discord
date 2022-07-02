@@ -38,10 +38,6 @@ I am a 18 y/o developer, </br>
   
   </tr>
  <table>
-
-
-
-<img width = "1080em" src = "./github-metrics.svg">
 <p align="left">
   <a href="https://github.com/antinuke0day/rival"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antinuke0day&repo=rival&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
   <a href="https://github.com/antinuke0day/button_paginator"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antinuke0day&repo=button_paginator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
