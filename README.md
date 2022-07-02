@@ -65,7 +65,7 @@ I am a 18 y/o developer, </br>
 </p>
 
 <p align="center">  
-<img src="https://discord.c99.nl/widget/theme-5/714703136270581841.png">
+<img src="https://discord.c99.nl/widget/theme-1/714703136270581841.png">
 </p>
 
 
