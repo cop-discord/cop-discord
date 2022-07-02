@@ -3,6 +3,9 @@
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?color=3DF7E2&size=30&center=true&lines=Self+taught+developer;Experienced+in+python;Keen+to+learn+new+things"></a>
 </p>
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=antinuke0day">
+</p>
 
 ## Hello
 <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>
@@ -16,8 +19,10 @@ I am a 18 y/o developer, </br>
 - NODEJS
 
 ### Mostly worked on modules
-- Discord.py
-- Discord.js
+<!-- py -->
+        <a href="https://github.com/antinuke0day?tab=repositories" target="_blank"><img alt="Python"
+                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+        </a>
 
 
 
@@ -54,14 +59,6 @@ I am a 18 y/o developer, </br>
   [<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg' alt='github' height='40'>](https://github.com/antinuke0day)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdx.solo.to/images/logo/solo-text-logo-color.svg' alt='instagram' height='40'>](https://solo.to/fry)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg' alt='Rival' height='40'>](https://discord.com/oauth2/authorize?client_id=986564927827378246&permissions=8&scope=applications.commands%20bot)
    
-</p>
-<!-- py -->
-        <a href="https://github.com/antinuke0day?tab=repositories" target="_blank"><img alt="Python"
-                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-        </a>
-
-<p align="center">  
-<img src="https://komarev.com/ghpvc/?username=antinuke0day">
 </p>
 
 <p align="center">  
