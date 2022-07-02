@@ -55,4 +55,17 @@ I am a 18 y/o developer, </br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg' alt='Rival' height='40'>](https://discord.com/oauth2/authorize?client_id=986564927827378246&permissions=8&scope=applications.commands%20bot)
    
 </p>
+<!-- py -->
+        <a href="https://github.com/antinuke0day?tab=repositories" target="_blank"><img alt="Python"
+                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+        </a>
+
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=antinuke0day">
+</p>
+
+<p align="center">  
+<img src="https://discord.c99.nl/widget/theme-4/714703136270581841.png">
+</p>
+
 
