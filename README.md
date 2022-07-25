@@ -16,7 +16,6 @@ I am a 18 y/o developer, </br>
 ### I mainly code in
 - Python  
 - Java
-- NODEJS
 </img>
 
 ### Mostly worked on module
