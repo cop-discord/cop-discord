@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=2000&pause=500&color=F75C5C&width=435&lines=hello+skid%2C;welcome+to+cop's profile)](https://github.com/antinuke0day)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=2000&pause=500&color=F75C5C&width=435&lines=Hello+User%2C;Welcome+to+UniversalHQ)](https://github.com/Universal-HQ/)
+
+
 # <h1 align="center"> ABOUT ME </h1>
 
 <p align="center">
