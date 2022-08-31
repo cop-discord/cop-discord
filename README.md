@@ -13,7 +13,7 @@
 ## Hello
 <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>
 
-I am a 18 y/o developer, </br>
+I am a 19 y/o developer, </br>
 `Creator` of Rival AntiNuke
 
 ### I mainly code in
@@ -57,7 +57,7 @@ I am a 18 y/o developer, </br>
 <p align="center">
   
   [<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg' alt='github' height='40'>](https://github.com/antinuke0day)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdx.solo.to/images/logo/solo-text-logo-color.svg' alt='instagram' height='40'>](https://solo.to/fry)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg' alt='Rival' height='40'>](https://discord.com/oauth2/authorize?client_id=986564927827378246&permissions=8&scope=applications.commands%20bot)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg' alt='Rival' height='40'>]([https://discord.com/oauth2/authorize?client_id=1002294763241885847&permissions=8&scope=applications.commands%20bot](https://discord.com/oauth2/authorize?client_id=1002294763241885847&permissions=8&scope=applications.commands%20bot))
    
 </p>
 
