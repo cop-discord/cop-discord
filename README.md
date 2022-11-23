@@ -13,12 +13,15 @@
 ## Hello
 <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>
 
-I am a 19 y/o developer, </br>
+I am a learning developer, </br>
 `Creator` of Rival AntiNuke
+`Developer` of Blame
+`Creator` of Rival API
 
 ### I mainly code in
 - Python  
 - Java
+- Rust
 </img>
 
 ### Mostly worked on module
